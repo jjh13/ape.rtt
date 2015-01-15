@@ -6,6 +6,6 @@ test.rtt <- function(t, tip.dates, remove = 1, random = T) {
 	sample(length(tip.dates), remove, replace=F)
 	mdates <- tip.dates
 	mdates[to.remove] <- (NA)
-	t <- rtt.missing.dates(t, mdates)
+	t <- rtt(t, mdates)
 	sum((t$tip.dates - tip.dates)^2)/length(tip.dates)
 }
