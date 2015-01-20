@@ -1,9 +1,9 @@
 test.rtt <- function(t, tip.dates, remove = 1, random = T) {
-	t<-unroot(t)
 	to.remove <- if(!random) 
-	remove
+		remove
 	else
-	sample(length(tip.dates), remove, replace=F)
+		sample(length(tip.dates), remove, replace = F)
+
 	mdates <- tip.dates
 	mdates[to.remove] <- (NA)
 	t <- rtt(t, mdates)
