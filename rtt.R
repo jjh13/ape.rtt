@@ -27,19 +27,15 @@ rtt <- function(t, tip.dates, ncpu = 1, objective = "correlation", opt.tol = .Ma
   
   tip.lengths <- node.depth.edgelength(t)
   
-  distances <- tip.lengths[valid.indices]
-  times <- tip.dates[valid.indices]
-  model <- lm(times ~ distances)
-  plot(distances, times)
-  abline(model)
-  
-  t <- unroot(t)
-  
   # Computes distance-to-tips, indexing [i,] gives the distances from the i'th node to all tips
-  dist <- dist.nodes(t)[, 1:(t$Nnode + 2)] 
+  if(is.rooted(t))  # NOTE: The last version unrooted the tree if it was rooted, this threw away information if the tree was rooted
+                    # now we don't unroot it, but pull the distances off matrix as if it were unrooted.
+    dist <- dist.nodes(t)[, 1:(t$Nnode + 1)] 
+  else
+    dist <- dist.nodes(t)[, 1:(t$Nnode + 2)]
   
-  ## Do root-to-tip regressions for every possible choice of root.
-  ## That is, compute the objective function for every choice of root.
+  ## Do root-to-tip regressions for every possible choice of root,
+  ## that is, compute the objective function for every choice of root.
   choice.f <- function(row) {
     if(row %in% missing.indices) # don't compute the objective function for tips that're missing data
       return (-Inf)
@@ -77,7 +73,7 @@ rtt <- function(t, tip.dates, ncpu = 1, objective = "correlation", opt.tol = .Ma
   t <- collapse.singles(t)
   t <- root(t, "new.root")
   t <- drop.tip(t, "new.root")
-  
+
   # Construct the linear model of the data
   tip.lengths <- node.depth.edgelength(t)
   
