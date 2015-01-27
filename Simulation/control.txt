@@ -1,0 +1,47 @@
+/////////////////////////////////////////////////////////////////////////////////////
+//                                                                                 //
+//  INDELible V1.03 control file - basicaminoacid.txt                              //
+//                                                                                 //
+//      A basic introduction to the structure of the INDELible control file.       //
+//                                                                                 //
+/////////////////////////////////////////////////////////////////////////////////////
+
+// It is useful to know that anything on a line after two forward slashes is ignored.
+
+/*
+   Another useful thing to know is that anything after a forward slash and star
+   is ignored until INDELible sees a star followed by a forward slash later on.
+*/     
+[TYPE] AMINOACID 2	//  EVERY control file must begin with a [TYPE] command.
+			//  The number after "AMINOACID" can be 1 or 2 and chooses the 
+			//  algorithm that INDELible uses (see manuscript). Both give 
+			//  identical results but in some cases one is quicker.
+			//  Other blocks and commands following this statement
+			//  can come in any order you like.
+
+[SETTINGS]
+  [output]                   FASTA    // FASTA, NEXUS, PHYLIP or PHYLIPT
+
+[MODEL]    modelname         //  Evolutionary models are defined in [MODEL] blocks.
+  [submodel] HIVw            //  Here the substitution model is simply set as WAG.
+//  [indelmodel]  POW  1.7 500 //  Power law insertion/deletion length distribution (a=1.7)
+//  [indelrate]   0.1          //  insertion rate = deletion rate = 0.1
+                             //  relative to average substitution rate of 1.   
+
+//  [statefreq] 0.4 0.3 0.2 0.1        	//  pi_T=0.4, pi_C=0.3, pi_A=0.2, pi_G=0.1
+
+[TREE] test1 ((((M77559_env_DPSC_1064:88.48823,M77576_env_DPSC_1309:333.48823):225.96014,((M77582_env_DPSC_1309:397.57477,(M77560_env_DPSC_1064:114.29497,(((M77571_env_DPSC_1064:13.87613,M77566_env_DPSC_1064:13.87613):15.64202,((M77568_env_DPSC_1064:1.04387,M77575_env_DPSC_1309:246.04387):26.49311,M77572_env_DPSC_1064:27.53698):1.98117):61.36807,M77570_env_DPSC_1064:90.88622):23.40875):38.27981):67.3966,M77567_env_DPSC_1064:219.97137):94.477):346.17825,((((M77569_env_DPSC_1064:138.39107,(M77562_env_DPSC_1064:84.97397,((((M77590_env_DPSC_1309:109.56074,((M77583_env_DPSC_1309:66.35612,M77581_env_DPSC_1309:66.35612):24.8999,(M77573_env_DPSC_1309:50.26614,M77574_env_DPSC_1309:50.26614):40.98988):18.30472):45.48018,M77584_env_DPSC_1309:155.04091):7.98667,M77580_env_DPSC_1309:163.02758):69.51155,M77588_env_DPSC_1309:232.53913):97.43483):53.41711):109.74665,M77578_env_DPSC_1309:493.13772):3.08218,(((M77608_env_DPSC_1706:336.8602,((M77594_env_DPSC_1706:21.64053,(M77600_env_DPSC_1706:11.21175,M77593_env_DPSC_1706:11.21175):10.42878):135.37488,(((M77625_env_DPSC_1887:72.67432,(M77636_env_DPSC_1887:5.572,M77630_env_DPSC_1887:5.572):67.10232):126.88604,M77602_env_DPSC_1706:18.56036):62.79603,(((M77599_env_DPSC_1706:28.94959,(((M77621_env_DPSC_1887:147.84546,(M77629_env_DPSC_1887:74.92702,M77617_env_DPSC_1887:74.92702):72.91843):10.88037,((M77622_env_DPSC_1887:45.2544,M77623_env_DPSC_1887:45.2544):5.75936,(M77624_env_DPSC_1887:10.47877,M77626_env_DPSC_1887:10.47877):40.53499):107.71207):38.14498,M77596_env_DPSC_1706:15.87081):13.07878):11.19868,M77604_env_DPSC_1706:40.14827):20.00904,(M77592_env_DPSC_1706:49.72759,M77601_env_DPSC_1706:49.72759):10.42972):21.19908):75.65901):179.84479):56.02226,((((M77609_env_DPSC_1706:59.37757,M77607_env_DPSC_1706:59.37757):18.9673,M77618_env_DPSC_1887:259.34487):22.43242,(((M77597_env_DPSC_1706:0.88124,M77605_env_DPSC_1706:0.88124):51.73161,((M77635_env_DPSC_1887:159.2088,((M77631_env_DPSC_1887:30.31513,M77628_env_DPSC_1887:30.31513):11.1372,(M77632_env_DPSC_1887:23.85425,M77633_env_DPSC_1887:23.85425):17.59807):117.75648):20.63866,(M77620_env_DPSC_1887:86.935,M77616_env_DPSC_1887:86.935):92.91246):53.76539):28.96771,(M77613_env_DPSC_1706:35.87948,((M77598_env_DPSC_1706:7.6655,M77610_env_DPSC_1706:7.6655):20.98042,M77603_env_DPSC_1706:28.64593):7.23355):45.70109):19.19673):156.50147,((((M77615_env_DPSC_1706:4.06342,M77614_env_DPSC_1706:4.06342):2.79115,M77612_env_DPSC_1706:6.85456):27.61392,M77606_env_DPSC_1706:34.46849):187.70157,(((M77619_env_DPSC_1887:112.19927,M77627_env_DPSC_1887:112.19927):20.40565,M77634_env_DPSC_1887:132.60492):84.4944,M77611_env_DPSC_1706:36.09932):186.07073):35.1087):135.6037):204.46503,((((M77586_env_DPSC_1309:24.73071,(M77589_env_DPSC_1309:12.97216,M77587_env_DPSC_1309:12.97216):11.75855):7.22269,M77585_env_DPSC_1309:31.95339):35.06828,M77577_env_DPSC_1309:67.02167):78.60818,M77591_env_DPSC_1309:145.62984):54.71765):295.87241):243.90977,(((M77561_env_DPSC_1064:102.31094,M77565_env_DPSC_1064:102.31094):152.11926,(M77557_env_DPSC_1064:112.88164,M77595_env_DPSC_1706:754.88164):141.54857):29.0982,M77579_env_DPSC_1309:528.5284):211.60127):165.49695):1016.660508,((M77558_env_DPSC_1064:54.76311,M77556_env_DPSC_1064:54.76311):279.03036,M77563_env_DPSC_1064:333.79347):1343.316032);
+
+
+[PARTITIONS] partitionname             //  [PARTITIONS] blocks say which models go with
+  [test1 modelname 1000]            //  which trees and define the length of the
+                                       //  sequence generated at the root (1000 here).
+
+[EVOLVE] partitionname 1 hiv_seq  //  This will generate 100 replicate datasets 
+                                       //  from the [PARTITIONS] block named above.
+
+// The true alignment will be output in a file named outputname_TRUE.phy
+// The unaligned sequences will be output in a file named outputname.fas
+// To learn how to implement more complicated simulations (or different 
+// models) please consult the manual or the other example control files.
+
