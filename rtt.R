@@ -80,6 +80,9 @@ rtt <- function(t, tip.dates, ncpu = 1, objective = "correlation", opt.tol = .Ma
   distances <- tip.lengths[valid.indices]
   times <- tip.dates[valid.indices]
   model <- lm(times ~ distances)
+
+  plot(distances, times)
+  abline(model)
   
   # Predict the missing dates
   tip.dates[missing.indices] <- predict(model, data.frame(distances=tip.lengths[missing.indices]))
