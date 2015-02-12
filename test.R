@@ -7,5 +7,5 @@ test.rtt <- function(t, tip.dates, remove = 1, random = T) {
 	mdates <- tip.dates
 	mdates[to.remove] <- (NA)
 	t <- rtt(t, mdates)
-	sum((t$tip.dates - tip.dates)^2)/length(tip.dates)
+	sum((t$tip.dates - tip.dates)^2)/remove
 }
