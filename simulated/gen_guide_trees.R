@@ -5,13 +5,13 @@
 library(ape)
 library(TreeSim)
 
-source('../rtt.R')
-source('../test.R')
+#source('../rtt.R')
+#source('../test.R')
 
 # Number of guide trees to create
-n.trees <- 10
+n.trees <- 50
 n.partitions <- 50
-n.replicates <- 1
+n.replicates <- 2
 n.tips <- 50
 
 
@@ -22,19 +22,22 @@ sampprob <-c(0.5)
 times<-c(0)
 
 date_branches <- function(tree) {
-	#tree <- tree[[1]]
+	tree <- unroot(tree[[1]])
 
-	tree$edge.length <- tree$edge.length
+	tip.dates <- node.depth.edgelength(tree)[1:n.tips]
+#	tree$edge.length <- tree$edge.length * 100
 	dates <- unlist(Map(toString, node.depth.edgelength(tree)[1:n.tips]))
 
 	# Quick hack for now, I know I can do this in one or two lines
 	for(i in 1:n.tips)
 		tree$tip.label[i] <- paste(tree$tip.label[i], dates[i], sep='_')
-	return(tree)
+
+	print(tree)
+	tree #rtt(tree, tip.dates)
 }
 
-#trees <- apply(matrix(rep(n.tips,n.trees)), 1, sim.bdsky.stt, lambdasky=lambda, deathsky=mu, timesky=times, sampprobsky=sampprob,rho=0,timestop=0)
-trees <- apply(matrix(rep(n.tips,n.trees)), 1, rtree)
+trees <- apply(matrix(rep(n.tips,n.trees)), 1, sim.bdsky.stt, lambdasky=lambda, deathsky=mu, timesky=times, sampprobsky=sampprob,rho=0,timestop=0)
+#trees <- apply(matrix(rep(n.tips,n.trees)), 1, rtree)
 for(i in 1:n.trees){
 	trees[[i]] <- date_branches(trees[[i]])
 
@@ -48,14 +51,14 @@ indel_control <-
   [output]                   FASTA 
 
 [MODEL]    HKY_HIV
-  [submodel]  HKY 8               
-  [statefreq] 0.1 0.7 0.1 0.1
+  [submodel]  HKY 9.5               
+  [statefreq] 0.42 0.15 0.15 0.28
 
 "
 
 for(i in 1:n.trees) {
 	tree_dat <- write.tree(trees[[i]])
-	tree_dat <- substr(tree_dat, 1, nchar(tree_dat))
+	#tree_dat <- substr(tree_dat, 1, nchar(tree_dat))
 	print(tree_dat)
 	indel_control <- paste0(indel_control, sprintf("[TREE] tree_%d %s \n", i, tree_dat))
 }

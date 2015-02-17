@@ -24,7 +24,7 @@ rtt <- function(t, tip.dates, ncpu = 1, objective = "correlation", opt.tol = .Ma
   # Find the tips of the tree that're missing dates
   missing.indices <- which(is.na(tip.dates))
   valid.indices <- which(!is.na(tip.dates))
-  
+
   tip.lengths <- node.depth.edgelength(t)
   
   # Computes distance-to-tips, indexing [i,] gives the distances from the i'th node to all tips
@@ -69,7 +69,9 @@ rtt <- function(t, tip.dates, ncpu = 1, objective = "correlation", opt.tol = .Ma
   ## Reroot the tree at the optimal location
   new.root <- list(edge = matrix(c(2L, 1L), 1, 2), tip.label = "new.root", edge.length = 1, Nnode = 1L, root.edge = 1)
   class(new.root) <- "phylo"
+
   t <- bind.tree(t, new.root, where = best.edge.child, position = best.pos * best.edge.length)
+
   t <- collapse.singles(t)
   t <- root(t, "new.root")
   t <- drop.tip(t, "new.root")
@@ -80,9 +82,6 @@ rtt <- function(t, tip.dates, ncpu = 1, objective = "correlation", opt.tol = .Ma
   distances <- tip.lengths[valid.indices]
   times <- tip.dates[valid.indices]
   model <- lm(times ~ distances)
-
-  plot(distances, times)
-  abline(model)
   
   # Predict the missing dates
   tip.dates[missing.indices] <- predict(model, data.frame(distances=tip.lengths[missing.indices]))

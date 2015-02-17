@@ -6,9 +6,13 @@ read.tree.tips <- function(file) {
 	return (tree)
 }
 
-plot.regression <- function(tree) {
-	distances <- node.depth.edgelength(tree)[1:(t$Nnode + 1)]
-	dates <- tree$tip.dates
+plot.regression <- function(tree, tip.dates=NULL) {
+	distances <- node.depth.edgelength(tree)[1:(tree$Nnode + 1)]
+
+	dates <- tree$tip.dates[1:(tree$Nnode + 1)]
+	if(!is.null(tip.dates)) {
+		dates <- tip.dates[1:(tree$Nnode + 1)]
+	}
 
 	m <- lm(distances ~ dates)
 	plot(distances, dates)
