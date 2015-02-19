@@ -1,0 +1,1344 @@
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	JC69
+. Number of taxa: 			50
+. Log-likelihood: 			-41928.46787
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14759
+. Tree size: 				45.54514
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Nucleotides frequencies:
+  - f(A)= 0.25000
+  - f(C)= 0.25000
+  - f(G)= 0.25000
+  - f(T)= 0.25000
+
+. Run ID:				none
+. Random seed:				1424296448
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m28s (28 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	JC69
+. Number of taxa: 			50
+. Log-likelihood: 			-41917.11438
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14728
+. Tree size: 				45.26110
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Proportion of invariant: 		0.000
+. Nucleotides frequencies:
+  - f(A)= 0.25000
+  - f(C)= 0.25000
+  - f(G)= 0.25000
+  - f(T)= 0.25000
+
+. Run ID:				none
+. Random seed:				1424296476
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m37s (37 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	JC69
+. Number of taxa: 			50
+. Log-likelihood: 			-41930.81770
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14639
+. Tree size: 				45.34913
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		99.046
+  - Relative rate in class 1: 		0.87532 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.96456 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.02968 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.13044 [freq=0.250000] 		
+. Nucleotides frequencies:
+  - f(A)= 0.25000
+  - f(C)= 0.25000
+  - f(G)= 0.25000
+  - f(T)= 0.25000
+
+. Run ID:				none
+. Random seed:				1424296513
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h1m28s (88 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	JC69
+. Number of taxa: 			50
+. Log-likelihood: 			-41937.41990
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14793
+. Tree size: 				46.64904
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		99.315
+  - Relative rate in class 1: 		0.87549 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.96461 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.02964 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.13026 [freq=0.250000] 		
+. Proportion of invariant: 		0.000
+. Nucleotides frequencies:
+  - f(A)= 0.25000
+  - f(C)= 0.25000
+  - f(G)= 0.25000
+  - f(T)= 0.25000
+
+. Run ID:				none
+. Random seed:				1424296602
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h3m35s (215 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	K80
+. Number of taxa: 			50
+. Log-likelihood: 			-43655.32664
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14768
+. Tree size: 				117478.40532
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Transition/transversion ratio: 	29.486
+. Nucleotides frequencies:
+  - f(A)= 0.25000
+  - f(C)= 0.25000
+  - f(G)= 0.25000
+  - f(T)= 0.25000
+
+. Run ID:				none
+. Random seed:				1424296817
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m17s (17 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	K80
+. Number of taxa: 			50
+. Log-likelihood: 			-43592.31939
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14759
+. Tree size: 				43815.89934
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Proportion of invariant: 		0.000
+. Transition/transversion ratio: 	0.273
+. Nucleotides frequencies:
+  - f(A)= 0.25000
+  - f(C)= 0.25000
+  - f(G)= 0.25000
+  - f(T)= 0.25000
+
+. Run ID:				none
+. Random seed:				1424296835
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m16s (16 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	K80
+. Number of taxa: 			50
+. Log-likelihood: 			-43511.74528
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14793
+. Tree size: 				3760.21016
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		6.683
+  - Relative rate in class 1: 		0.55983 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.83565 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.07969 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.52482 [freq=0.250000] 		
+. Transition/transversion ratio: 	0.101
+. Nucleotides frequencies:
+  - f(A)= 0.25000
+  - f(C)= 0.25000
+  - f(G)= 0.25000
+  - f(T)= 0.25000
+
+. Run ID:				none
+. Random seed:				1424296851
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h1m13s (73 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	K80
+. Number of taxa: 			50
+. Log-likelihood: 			-43587.92727
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14804
+. Tree size: 				4728.16077
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		4.809
+  - Relative rate in class 1: 		0.49393 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.79923 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.08362 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.62323 [freq=0.250000] 		
+. Proportion of invariant: 		0.000
+. Transition/transversion ratio: 	0.144
+. Nucleotides frequencies:
+  - f(A)= 0.25000
+  - f(C)= 0.25000
+  - f(G)= 0.25000
+  - f(T)= 0.25000
+
+. Run ID:				none
+. Random seed:				1424296924
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m27s (27 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	F81
+. Number of taxa: 			50
+. Log-likelihood: 			-40617.81485
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14795
+. Tree size: 				805062.74076
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424296951
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m9s (9 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	F81
+. Number of taxa: 			50
+. Log-likelihood: 			-40618.37485
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14816
+. Tree size: 				888772.48572
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Proportion of invariant: 		0.000
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424296960
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m10s (10 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	F81
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.62125
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14807
+. Tree size: 				960626.12899
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		61.899
+  - Relative rate in class 1: 		0.84338 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.95425 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.03653 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.16585 [freq=0.250000] 		
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424296970
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m17s (17 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	F81
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.69773
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14760
+. Tree size: 				20056.13040
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		61.828
+  - Relative rate in class 1: 		0.84329 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.95422 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.03655 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.16594 [freq=0.250000] 		
+. Proportion of invariant: 		0.000
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424296987
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m15s (15 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	F84
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.62110
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14743
+. Tree size: 				955241.65861
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Transition/transversion ratio: 	63.331
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297003
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m9s (9 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	F84
+. Number of taxa: 			50
+. Log-likelihood: 			-40596.12440
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14763
+. Tree size: 				656374.91785
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Proportion of invariant: 		0.000
+. Transition/transversion ratio: 	0.133
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297012
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m9s (9 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	F84
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.62112
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14823
+. Tree size: 				946230.10076
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		61.899
+  - Relative rate in class 1: 		0.84338 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.95425 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.03653 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.16585 [freq=0.250000] 		
+. Transition/transversion ratio: 	63.331
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297022
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m17s (17 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	F84
+. Number of taxa: 			50
+. Log-likelihood: 			-40611.37491
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14776
+. Tree size: 				5330.30955
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		0.13689 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.47666 [freq=0.250000] 		
+  - Relative rate in class 3: 		0.99995 [freq=0.250000] 		
+  - Relative rate in class 4: 		2.38651 [freq=0.250000] 		
+. Proportion of invariant: 		0.000
+. Transition/transversion ratio: 	2.271
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297039
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m19s (19 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	HKY85
+. Number of taxa: 			50
+. Log-likelihood: 			-40595.03232
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14785
+. Tree size: 				659101.08444
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Transition/transversion ratio: 	0.101
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297058
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m9s (9 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	HKY85
+. Number of taxa: 			50
+. Log-likelihood: 			-40619.93317
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14766
+. Tree size: 				619827.77684
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Proportion of invariant: 		0.000
+. Transition/transversion ratio: 	99.911
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297067
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m15s (15 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	HKY85
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.62106
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14823
+. Tree size: 				945420.29299
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		61.899
+  - Relative rate in class 1: 		0.84338 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.95425 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.03653 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.16585 [freq=0.250000] 		
+. Transition/transversion ratio: 	63.331
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297083
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m16s (16 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	HKY85
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.69751
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14774
+. Tree size: 				20029.30497
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		38.237
+  - Relative rate in class 1: 		0.80258 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.94029 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.04478 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.21234 [freq=0.250000] 		
+. Proportion of invariant: 		0.000
+. Transition/transversion ratio: 	63.454
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297100
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m17s (17 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	TN93
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.61980
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14858
+. Tree size: 				945799.89008
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Transition/transversion ratio for purines: 		124.658
+. Transition/transversion ratio for pyrimidines: 	2.005
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297117
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m9s (9 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	TN93
+. Number of taxa: 			50
+. Log-likelihood: 			-40617.90439
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14813
+. Tree size: 				1079672.29477
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Proportion of invariant: 		0.000
+. Transition/transversion ratio for purines: 		6.599
+. Transition/transversion ratio for pyrimidines: 	2.977
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297126
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m10s (10 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	TN93
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.61939
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14823
+. Tree size: 				945420.25090
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		61.899
+  - Relative rate in class 1: 		0.84338 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.95425 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.03653 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.16585 [freq=0.250000] 		
+. Transition/transversion ratio for purines: 		124.658
+. Transition/transversion ratio for pyrimidines: 	2.005
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297136
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m14s (14 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	TN93
+. Number of taxa: 			50
+. Log-likelihood: 			-40594.20934
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14817
+. Tree size: 				4674.82787
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		2.025
+  - Relative rate in class 1: 		0.29625 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.65765 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.07060 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.97550 [freq=0.250000] 		
+. Proportion of invariant: 		0.000
+. Transition/transversion ratio for purines: 		0.004
+. Transition/transversion ratio for pyrimidines: 	0.228
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+
+. Run ID:				none
+. Random seed:				1424297150
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m31s (31 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			50
+. Log-likelihood: 			-40576.78229
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14796
+. Tree size: 				907176.30352
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+. GTR relative rate parameters : 
+  A <-> C    3.36980
+  A <-> G    0.16374
+  A <-> T    0.09933
+  C <-> G    0.17612
+  C <-> T    0.70256
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.90051   0.81571   0.03959   0.04522  
+   2.28637  -2.64877   0.04258   0.31982  
+   0.11110   0.04263  -0.60895   0.45522  
+   0.06740   0.17007   0.24176  -0.47922  
+
+
+
+. Run ID:				none
+. Random seed:				1424297181
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m10s (10 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			50
+. Log-likelihood: 			-40576.82877
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14820
+. Tree size: 				923094.61018
+. Discrete gamma model: 		Yes
+  - Number of classes: 			1
+  - Gamma shape parameter: 		1.000
+  - Relative rate in class 1: 		1.00000 [freq=1.000000] 		
+. Proportion of invariant: 		0.000
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+. GTR relative rate parameters : 
+  A <-> C    3.66764
+  A <-> G    0.11498
+  A <-> T    0.08154
+  C <-> G    0.34237
+  C <-> T    0.76556
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.89507   0.83408   0.02612   0.03487  
+   2.33787  -2.74304   0.07776   0.32741  
+   0.07329   0.07786  -0.57883   0.42767  
+   0.05197   0.17410   0.22713  -0.45320  
+
+
+
+. Run ID:				none
+. Random seed:				1424297191
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m11s (11 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.62125
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14823
+. Tree size: 				946230.10241
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		61.899
+  - Relative rate in class 1: 		0.84338 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.95425 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.03653 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.16585 [freq=0.250000] 		
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+. GTR relative rate parameters : 
+  A <-> C    0.99922
+  A <-> G    3.99908
+  A <-> T    0.99978
+  C <-> G    1.00035
+  C <-> T    4.00068
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -0.77410   0.11254   0.44982   0.21175  
+   0.31543  -1.27527   0.11252   0.84732  
+   1.26241   0.11266  -1.58686   0.21180  
+   0.31560   0.45057   0.11248  -0.87865  
+
+
+
+. Run ID:				none
+. Random seed:				1424297202
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m13s (13 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 20150127  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+. Sequence filename: 			__tmp10.dna
+. Data set: 				#1
+. Tree topology search : 		NNIs
+. Initial tree: 			BioNJ
+. Model of nucleotides substitution: 	GTR
+. Number of taxa: 			50
+. Log-likelihood: 			-40621.69772
+. Unconstrained likelihood: 		-4060.80349
+. Parsimony: 				14742
+. Tree size: 				20667.05519
+. Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		61.828
+  - Relative rate in class 1: 		0.84329 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.95422 [freq=0.250000] 		
+  - Relative rate in class 3: 		1.03655 [freq=0.250000] 		
+  - Relative rate in class 4: 		1.16594 [freq=0.250000] 		
+. Proportion of invariant: 		0.000
+. Nucleotides frequencies:
+  - f(A)= 0.41946
+  - f(C)= 0.14965
+  - f(G)= 0.14946
+  - f(T)= 0.28143
+. GTR relative rate parameters : 
+  A <-> C   38.85660
+  A <-> G   40.73522
+  A <-> T   38.78835
+  C <-> G    1.00014
+  C <-> T    4.00326
+  G <-> T    1.00000
+
+. Instantaneous rate matrix : 
+  [A---------C---------G---------T------]
+  -1.16368   0.29653   0.31047   0.55667  
+   0.83116  -0.89624   0.00762   0.05745  
+   0.87134   0.00763  -0.89333   0.01435  
+   0.82970   0.03055   0.00762  -0.86787  
+
+
+
+. Run ID:				none
+. Random seed:				1424297215
+. Subtree patterns aliasing:		no
+. Version:				20150127
+. Time used:				0h0m11s (11 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

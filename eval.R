@@ -10,7 +10,7 @@ trim <- function (x) gsub("^\\s+|\\s+$", "", x)
 extract_dates <- function(x) as.numeric(gsub("(.+)_([0-9\\.]+)$", "\\2", x, perl=T))
 
 
-n.simulated <- 50
+n.simulated <- 2
 nfp <- c(1, 2, 2, 3, 2, 3, 3, 4, 4, 5, 5, 6, 5, 6, 6, 7, 5, 6, 6, 7, 6, 7, 7, 8, 9, 10, 10, 11)
 exclude <- c(
 	"JC69", 
@@ -29,15 +29,16 @@ ml.tree <- function(i){
 	unlink(sprintf("__tmp%d.dna_phyml_tree.txt", i), force = T)
 	unlink(sprintf("__tmp%d.dna_phyml_stats.txt", i), force = T)
 	unlink(dna.file)
-	simenv.dna <- read.FASTA(sprintf("simulated/HIV_%d_out_TRUE.fas", i))
 
-	uid <- sample(1:length(names(simenv.dna)), length(names(simenv.dna)), replace=F)
+#	simenv.dna <- read.FASTA(sprintf("simulated/HIV_%d_out_TRUE.fas", i))
+	simenv.dna <- read.dna(sprintf("simulated/HIV_SIM_%d.phy", i))
+#	uid <- sample(1:length(names(simenv.dna)), length(names(simenv.dna)), replace=F)
 	# read.FASTA is buggy, and creates the DNABin structure incorrectly
 	# BUT, it's so broken that we can mess around with the names, then...
-	for(j in 1:length(names(simenv.dna))) { 
+#	for(j in 1:length(names(simenv.dna))) { 
 		# give each bin a unique name 
-		names(simenv.dna)[j] <- sprintf("u%s_%s", uid[j], names(simenv.dna)[j])
-	}
+#		names(simenv.dna)[j] <- sprintf("u%s_%s", uid[j], names(simenv.dna)[j])
+#	}
 
 	# ... output a file (which works for some reason)
 	write.dna(simenv.dna, dna.file)
@@ -55,7 +56,7 @@ ml.tree <- function(i){
 
 	write.tree(tree, sprintf("simulated/tree/HIV_ml_%d_out.nwk", i))
 	unlink(sprintf("__tmp%d.dna_phyml_tree.txt", i), force = T)
-	unlink(sprintf("__tmp%d.dna_phyml_stats.txt", i), force = T)
+	#unlink(sprintf("__tmp%d.dna_phyml_stats.txt", i), force = T)
 	unlink(dna.file)
 	tree
 }
@@ -71,7 +72,7 @@ trees <- mclapply(1:n.simulated, ml.tree, mc.cores=12)
 #trees <- trees.read("simulated/tree/")
 run_name <- "coal"
 species <- "Simulated"
-n.runs <- 50
+n.runs <- 1
 
 for(remove in c(1,5,10)){
 	pdf(sprintf('%s_%d.pdf', run_name, remove), width=11.5, height=8.5)
